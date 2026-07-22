@@ -15,7 +15,7 @@
 
 ## 관련 파일
 
-- [프로젝트 노트북](<../../AI club for learning through projects/기상 관련 공공 데이터 처리.ipynb>)
+- [프로젝트 노트북](<기상 관련 공공 데이터 처리.ipynb>)
 
 ## 배운 점
 

@@ -15,8 +15,8 @@
 
 ## 관련 파일
 
-- [분석 노트북](<../../AI club for learning through projects/머신러닝으로 2030년 기온 예측하기.ipynb>)
-- [서울 기온 데이터](<../../AI club for learning through projects/seoul_temp.csv>)
+- [분석 노트북](<머신러닝으로 2030년 기온 예측하기.ipynb>)
+- [서울 기온 데이터](seoul_temp.csv)
 
 ## 배운 점
 

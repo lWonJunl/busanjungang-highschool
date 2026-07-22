@@ -15,8 +15,8 @@
 
 ## 관련 파일
 
-- [프로젝트 노트북](<../../AI club for learning through projects/인구 데이터 시각화하기.ipynb>)
-- [인구 데이터](<../../AI club for learning through projects/korea_pop.csv>)
+- [프로젝트 노트북](<인구 데이터 시각화하기.ipynb>)
+- [인구 데이터](korea_pop.csv)
 
 ## 배운 점
 
